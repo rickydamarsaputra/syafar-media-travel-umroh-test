@@ -18,7 +18,8 @@
     "env": {
         "APP_ENV": "production",
         "APP_DEBUG": "true",
-        "APP_URL": "https://example-atomik.vercel.app/",
+        "APP_URL": "https://syafar-media-travel-umroh-test.vercel.app",
+        "APP_KEY": "base64:9zcfA1jlyqKYbZaUG7CimGcgOEtGsnlFdOtBd/jejco=",
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
         "APP_PACKAGES_CACHE": "/tmp/packages.php",
