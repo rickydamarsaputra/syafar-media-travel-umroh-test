@@ -11,7 +11,7 @@
         }
     ],
     "public": true,
-    "buildCommand": "vite build",
+    "buildCommand": "npm run build",
     "outputDirectory": "public",
     "env": {
         "APP_ENV": "production",
